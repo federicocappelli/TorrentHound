@@ -3,7 +3,7 @@
 
 ### Features
 
-* Search torrents avoiding advertisement, annoying popups captchas from
+* Search torrents avoiding advertisement, annoying popups and captchas from
   - The Pirate Bay
   - Kick Ass Torrents
   - More... *(Coming soon)*
